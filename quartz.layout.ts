@@ -41,7 +41,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Martin Rosén-Lidholm": "https://rosenlidholm.se",
-      Chronograph: "https://chronograph.rosenlidholm.se",
     },
   }),
 }

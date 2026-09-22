@@ -19,6 +19,8 @@ tags: [cykel, ultracykling, race-report]
 | **Total tid** | 259:45 (rulltid ~160 h, 62 %) |
 | **Snitt** | 13,9 km/h inklusive stopp |
 
+![](../bilder/race-around-poland-2023/rap23-aero-official.jpg)
+
 ## Prolog
 
 Förberedelserna veckorna innan loppet kunde minst sagt ha gått mycket bättre. I samband med att de ovala Rotor 48/35-klingorna skulle bytas till runda Carbon-Ti 46/33. Planen var annars att köra med SRAMs egna 43/30 p.g.a. mycken brant klättring, men när det vevpartiet med sin lilla 94 BCD skulle monteras visade det sig att ramen inte kan husera dylikt då spindeln helt enkelt slår in i ramen. Kanske kunde det lösts genom att konvertera till WIDE, men man vill ju inte cykla bredbent som en anka som Vroomen uttrycker det.
@@ -29,15 +31,29 @@ Har inte hunnit köra ett långpass på veckor då cykelstrulet ätit upp all ti
 
 Bilresan ner kan jag nu. Ska gå att vara vid hotellet i Warszawa vid midnatt med elbil om allt klaffar. Det gjorde det inte ifjol och det gjorde det heller inte i år. Färjan är åtminstone inte försenad med lyckas bli haffad av ett par tullare som röntgar ett par väskor. Sedan ska låtsasterrängbilen få bekänna färg på otroligt dåliga sand-/grusvägar genom skogen p.g.a. avstängda vägar. Jag är inte den ende som sett möjligheten genom skogen och får därmed många möten som det inte riktigt finns plats till. Många stoppar mig och frågar om man verkligen kommer till Świnoujście till slut och jag kan ju bekräfta det. Har tappat drygt en värdefull timme som annars hade sovits då jag ska upp och jobba dagen efter. Laddstolparna är i.a.f. lediga utefter vägen till skillnad från sist, så klockan är inte mycket mer än ett på natten när jag rullar ner i P-garaget.
 
+![](../bilder/race-around-poland-2023/rap23-start-area.jpg)
+
 ## Sömn
 
 Får sedan två bra nätter med nästan åtta timmars sömn. Härligt! Planen är nämligen att hålla hög säkerhetsnivå i den bitvis väldigt tuffa trafiken, d.v.s. i möjligaste mån cykla med sinnesnärvaro. Det betyder också att jag tar visdomsorden från boken Masters RAAM, "resist the temptation of cutting out your first sleep break, fatigue is cumulative", och sover redan i bokat eget rum första natten. Förhoppningen är att ställa klockan på fyra timmar och en kvart, halvtimme ska ge runt fyra effektiva timmars sömn per natt och att det ska räcka. Oj vad fel jag tar. John Blund gör sin obönhörliga entré varje dag och det blir en kort siesta i särskilt busskurer, som det finns gott om i landet, men även bänkar och någon enstaka toalett.
 
+![](../bilder/race-around-poland-2023/rap23-bus-shelter-siesta.jpg)
+
 Det är väldigt svårt att i förväg veta precis hur lätt det är att sova på en timestation och jag har stora problem där man delar rum p.g.a. ljud, ljus och rörelse. Detta bidrar naturligtvis kraftigt till dålig återhämtning och ökat behov av en tupplur på dagen.
+
+![](../bilder/race-around-poland-2023/rap23-hotel-mirror-beer.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-restroom-selfie.jpg)
 
 ## Loppet och reglerna
 
 När nu timestations nämnts är det på plats att berätta om loppet och dess regler. Vi lägger supported-kategorin åt sidan (som i år hade WUCA-världsmästerskapstatus och som med stor bravur vanns av svenske Jimmy Rönn och hans fantastiska team som hejade på mig utefter banan först under loppets gång och sedan någon dag efter deras målgång norröver och en energikick att snacka med Jimmy nån minut hängandes ur ett familjebussfönster). Jag tävlade i kategorin unsupported i sedvanlig ordning och loppet är uppdelat i tolv ungefär 30 mil långa delar som avslutas med en timestation. Det unika med detta lopp är för det första att du är en finisher i det ögonblick du nått din första timestation. För det andra att varje timestation också har en cut-off-tid som är ett dygn per timestation sedan start (du kan alltså bli eliminerad under loppets gång). För det tredje att du får lämna en drop-bag-påse per timestation innan start. Superlyxigt med fräscha bibs och att inte behöva förlita sig enbart på mackar, Donken o.dyl. utan ha tryggheten i medhavd energi såsom Fortimel, Sponser Ultra och SiS Beta Fuel.
+
+![](../bilder/race-around-poland-2023/rap23-start-arch.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-martin-marta-start.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-ts-map-selfie.jpg)
 
 ## Mekaniken
 
@@ -45,29 +61,61 @@ När nu timestations nämnts är det på plats att berätta om loppet och dess r
 
 Vad värre är, är att jag vid ett Donken-stopp runt 100-milastrecket upptäcker att grenen jag ska plocka bort från bakväxeln i själva verket är en eker som är av. Här tror jag att målgång i Warszawa är uteslutet och att det handlar om att vobbla till så många timestations som möjligt innan fler ekrar ger sig. Har dock kört andra halvan av en Everesting med hela tre ekerbrott på en äldre utgåva av 303 Firecrest och senaste modellen som jag cyklar loppet på har också Sapim-ekrar, så jag har hoppet kvar. Jäkla tur att jag cyklar på en ram med plats för 42 mm-däck då vobblandet ökar den effektiva bredden på mina 35 mm-däck väsentligt. Med en aeroram som slickar bakhjulet hade det varit över m.a.o.
 
+![](../bilder/race-around-poland-2023/rap23-mcdonalds-stop.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-wheel-closeup.jpg)
+
 ## Vägarna och trafiken
 
 Vägarnas beskaffenhet är bitvis en riktigt tuff utmaning och jag vet inte hur många gånger jag sett vägbuleskyltar med en tilläggsskylt med kilometerangivelse. Det betyder inte att vägen har farthinder i sju kilometer, men att beläggningen är riktigt risig med stora sprickor, kastrullhål, o.dyl.
 
+![](../bilder/race-around-poland-2023/rap23-sign-8pct-2km.jpg)
+
 Gick in i tävlingen i race mode, dock med förbehållet att köra mitt lopp enligt min plan och inte låta mig dras med i andras taktik eller bry mig om hur de ligger till. Av oklar anledning, trötthet antagligen, klarar jag inte att köra så hårt jag hade önskat och vad värre är drar jag på mig ganska långa pauser. Behöver mentalt det där iskaffet eller colan i värmen och inte ännu en varm Fortimel. Det är också allt från 36 °C ner till ganska låga nattemperaturer (körde sista natten med dunjacka under regnjacka) samt likaledes allt från gassande sol till skyfall med inslag av åska. Dessvärre också oflyt med vinden som är mestadels mot hela loppet. Tidigt tappar jag helt lusten att köra skiten ur mig och får också stor respekt för att lejonparten av loppets 33 000 höjdmetrar återfinns mellan mil 40 och 180 och vill gärna komma ur dem med knäna någorlunda intakta, särskilt nu när jag behövde nöja mig med 0,92 som lägsta utväxling (ja, jag steg av och gick upp för en brant backe en natt för första gången i mitt cykelliv…). Jag slänger helt enkelt min tiodagarsplan och byter till rando mode, d.v.s. komma runt på tolv dygn och genomförande är gott nog. Senare blir det "ännu värre" då dagarna i sadeln bryter ner alla mina försvarsmekanismer och känslorna ligger utanpå kroppen. Svårt att förklara och ska nog upplevas, men som exempel förvandlas [Hurulas sommarprat](https://www.sverigesradio.se/avsnitt/robert-hurula-sommarpratare-2023) till en gråtfest utan dess like. Jag trampar på och försöker finna boende ad hoc som passar rytmen och undvika timestations för annat än korta tupplurar.
 
+![](../bilder/race-around-poland-2023/rap23-down-jacket-selfie.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-cold-morning-selfie.jpg)
+
 Jag har tyvärr haft rätt om trafiken och känner mig ofta otrygg, vilket gör adekvat vila ännu viktigare för mig en bit in i loppet. Kommer även några minuter efter en medtävlande som blivit påkörd och står med förövaren vid vägkanten och jag inser det jag vet, faran är reell. Han säger dock att han är okej när jag stannar till och frågar och ett sjukhusbesök ska senare lyckligtvis bekräfta det. Vid timestation 11 är vi ganska många ryttare samlade och blir informerade om att hela fyra stycken i kategorin unsupported har blivit påkörda, en med frakturer som följd. Kamil som är närvarande är en av de fyra och han berättar också om hur han tre gånger slängt sig utanför vägkanten när hetsiga förare inte väntar med sina omkörningar och det helt enkelt inte finns plats för en cyklist. Kanhända har mitt ena långfinger åkt upp några gånger under liknande situationer… Vi ombeds vara extra försiktiga de sista milen in till Warszawa och stadens rusningstrafik. Ett råd jag senare ska följa så gott det går i trafikkaoset.
+
+![](../bilder/race-around-poland-2023/rap23-straight-road.jpg)
 
 ## Det mentala
 
 Ett tag övervägde jag att skriva en väldigt annorlunda race report som enbart skulle handla om det mentala p.g.a. den inre resa som ägde rum. Min käre medtävlande Kamil skrev innan loppet att då var det dags igen (han kom tvåa ifjol) att bli nedplockad på atomär nivå och ihopplockad igen. Jag tänkte mycket på det citatet under loppet, men kände att jag inte enbart blev nedplockad i mina minsta beståndsdelar, men även ihopplockad som en något bättre version. Väldigt pretto, varför det inte blir en dylik RR. Har även sent i livet i år börjat meditera seriöst och det kan också ha bidragit till de djupare tankarna. Många var timmarna jag tänkte att detta var mitt retreat och att cyklingen och tävlingen var sekundära. Mycket intressant hur man kan få tag i delar av sig själv man inte riktigt mött förr. Intressant tajming att vi lyssnade på [Josh Ibbett bli intervjuad](https://buzzalongcycling.substack.com/p/003-crossing-continents-by-bike-transcontinental-20b) av Sherry med anledning av hans TCR-meriter och hennes stundande TCR och att han kom runt det mentala under så här långa och hårda lopp i bilen på väg till Kołobrzeg. Min favoritlyssning under långa cykelstrapatser är rockumentärer och denna gång hanns bl.a. [Hvem Er The Minds of 99?](https://www.dr.dk/lyd/p3/hvem-er/hvem-er-the-minds-of-99-1-5) med och inte minst en fantastisk passage om hur hela bandet gemensamt trippar på svampar. Avrundas med uppmaningen att vara vuxen och ha landat i dig själv innan du gör det. Tänkte att det passade fint in på ultracykling också, men med det sagt var yngsta deltagaren i år blott 20 år. Hur hans hjärnkontor rumsterades vet jag dock inget om…
 
+![](../bilder/race-around-poland-2023/rap23-tired-selfie.jpg)
+
 ## Varför RAP
 
 Jag har under en längre tid velat köra ett riktigt långt lopp i stil med Transcontinental Race (TCR), även om det loppet är väldigt långt ner på min önskelista p.g.a. vilda hundar som jag fått nog av i södra Italien men framförallt tiden det tar att göra sin egen rutt. För mig ligger det ett otroligt stort värde i att njuta av en rekad och förnuftig rutt. Hade en North Cape 4000 (NC4k)-startplats redan 2021, men p.g.a. många gränspassager, oklart vaccinationsläge och olika länders restriktioner körde jag istället Sverigetempot och 1001 Miglia det året som jag också hade platser till då de skjutits upp ett år eftersom pandemin härjade. Sverigetempot gav nya vänskaper för livet, så ett mycket bra val sett i backspegeln. Polen och RAP valdes 2022 istället för NC4k helt enkelt p.g.a. logistiken. Har flugit mycket med cykeln och hatar det, så möjligheten att ta bilen vägde tungt. Tyngre vägde en avslutning med Malin i mål och lite mys. Vi brukar göra så i samband med mina lopp och har njutit av ställen som Paris, Rom, Milano och Aarhus. Hon var dock väldigt säker på att hon inte tänkte komma upp till Nordkapp… Då jag tvingades bryta ifjol med trasig bakväxel var det aldrig någon tvekan. Redan på färjan hem bad jag arrangören Remek om att få behålla mitt startnummer 22 och göra det rättvisa 2023. "It's yours for life" fick jag till svar ❤ Att jag fått ett otroligt bra intryck av arrangören och en professionalism jag aldrig tidigare upplevt bidrog även kraftigt. Mycket riktigt funkar all logistik och övrigt som ett schweiziskt urverk under loppet. Organisationen är stor med bl.a. en fantastisk funktionär i varje timestation, men särskilt stort tack till huvudpersonerna Remek och Mateusz 🙏🏻
+
+![](../bilder/race-around-poland-2023/rap23-peace-sign-official.jpg)
 
 ## Polen
 
 Bortsett från nämnda trafik och likaledes nämnda vägbeskaffenhet besviker inte en tur runt Polen. Mycket ögongodis i bergen och goda möjligheter att se vilt. En älg traskade exempelvis ut mitt framför mig, men jag missade björnarna som medtävlande Grzegorz annars hade varnat mig för under vår gemensamma middag kvällen innan start. Han bor nämligen där det är som björnrikast under rutten och hade exempelvis stött på fyra (!) älgar under sin sista träningstur innan loppet. Mycket jordbruk och långa, rofyllda passager genom gigantiska åkrar och fält. Sjöar och inte minst vackra skogar i mängder. God infrastruktur med många mackar med generösa öppettider liksom Donken. Som smålänning ursprungligen uppskattas också prisnivån i landet avseende boende och mat som är betydligt lägre än hemma trots vår sjunkande krona. Inte minst uppskattar en långfärdscyklist de stora, fina busskurerna med likaledes stora bänkar när det är dags för siesta och tupplur. Inte minst är de polska ultracyklisterna minst lika trevliga som i resten av världen, vilket ger ett otroligt fint kamratskap som får känslan av tävling svårt att infinna sig. Dessvärre är det vanligt med lika stora språkbarriärer som i Italien, men man kommer långt med kroppsspråk och kramar. Låter Polen lockande, men 3 600 km / 33 000 hm lite väl mycket rekommenderade Grzegorz 1 008 km långa [Bałtyk Bieszczady](https://1008.pl/) som han kört flera gånger. Som sydsvensk är det också smidigt med start i Świnoujście. Landet bjuder också på det drygt 1 500 km långa [Race Through Poland](https://racethroughpoland.pl/) som enligt Grzegorz innehåller några tuffare gravel-sektioner i den TCR-anda arrangören önskar.
 
+![](../bilder/race-around-poland-2023/rap23-grzegorz-dinner.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-tatra-panorama.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-storks.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-three-riders.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-selfie-with-rider.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-nalesniki.jpg)
+
 ## Cykeln
 
 För de inbitna nördarna är sannolikt cykeln som användes av intresse. Visste redan ifjol att min Cervélo S3 hade för rejsig geometri och för dålig komfort för de nämnda vägbeläggningarna och en åldrande lekamen. Inte ens "korta" lopp med fina vägar som 1 600 km Race Around Denmark (RAD) har kunnat genomföras utan problem med nacke och ländrygg senaste åren. När såren slickades efter fjolårets fadäs i farstun på Öland bestämdes det att en cykel optimerad för RAP skulle byggas. Den skulle även klara snällare gravel-ultror. Var grymt sugen på en fin titanram egentligen, men som den Vroomen-fanboi man är blev det såklart en fjärde dylik. Denna gång föll valet på OPEN U.P. Hade tänkt bygga fullt trådad 12s Di2 (one battery to rule them all), men när jag insåg att det krävdes en adapter till mina älskade växlingsknappar i tempopinnarna och ett skatbo i cockpiten byttes strategi till trådlöst och AXS. Ville slippa XDR-body och blips i MagCad-fästen funkar, men kan inte jämföras med de sköna, eleganta Dura-Ace-knapparna jag skämt bort mig med. Saknar också gränslöst mina knappar för Edge-skärmbyte i handtagen. Dessa har ersatts med en Edge-fjärr som mycket riktigt visade sig oumbärlig när cykeldatorn får frispel i regnet och skärmen behöver låsas. Ett kit med fjädrad sadelstolpe och styrstam från Redshift var självklart, liksom breda lätta hjul, Zipp Firecrest 303. Efter många år med olika Infinity-säten togs beslutet någon vecka innan RAP att testa E1XC då den skulle passa den mer upprätta ställning detta bygge hade som mål. Kunde t.o.m. lyxa till det med kolfiberrelingar då denna jonne har Tailfins pakethållarsystem och relingarna inte ska användas för att fästa en tung sadelväska. De flesta cyklar med UCI-lagliga små armstöd, men ultravärlden har inga sådana begränsningar och mitt val föll på ett par Culprit CSR (som rönte mycket uppmärksamhet i Polen). Dessa tillsammans med fjädrad cockpit, Profile Designs högsta risers och växlingsknappar i pinnändarna gör att lejonparten av RAP kan köras i behaglig tempoposition. Helt fantastiskt och precis det jag hade hoppats på. RAD kördes på snabba 30 mm Pirelli P Zero Race precis som vanligt, men jag ville ha mer punkaskydd och komfort till RAP. Hade tidigt köpt tre Strada Bianca Pro 36 mm, men så lanserar Specialized nya Mondo som fått bekänna färg under årets Paris–Roubaix och jag slår till på hela fyra stycken. Dessa cyklades punkafritt med hög komfort under mina 160 timmars trampande. Magiskt.
+
+![](../bilder/race-around-poland-2023/rap23-aero-official-start.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-hotel-room-bike.jpg)
 
 ## Nästa grej
 
@@ -75,14 +123,62 @@ Tänker man på nästa grej efter denna omtumlande käftsmäll eller hänger man
 
 ## Resultatet
 
-Resultatet blev en elfteplacering. Hade sub10-planen då de två tidigare utgåvorna hade funnit sina vinnare där. I år dök dock betydligt fler och välmeriterade ryttare upp med Krystian som den lysande stjärnan och förhandsfavoriten efter att nästan slagit självaste Strasser under fjolårets TCR. Han gjorde heller ingen besviken och krossade banrekordet. Hade bestämt mig för en längre femtimmars nattvila 45 mil innan mål och därtill första hotellfrukosten för att klara natten med ett 45-minuterspass i en busskur. Allt flöt enligt plan, men med blott elva mil kvar var jag så utmattad att hela två halvtimmarstupplurar krävdes för att komma i mål och den där kampen om sista topp tio-platsen kom av sig. Kände mig dock som en vinnare när delar av RAP-teamet kom ut och mötte mig med både flagga och fotograf med stora leenden för att inte tala om hur mycket jag kände mig som en segrare när jag skådar min helt fantastiska bättre hälft Malin vid målgång. En solid sub11 på ~260 timmar varav ~160 trampades (och tampades…) blev det till slut.
+Resultatet blev en elfteplacering. Hade sub10-planen då de två tidigare utgåvorna hade funnit sina vinnare där. I år dök dock betydligt fler och välmeriterade ryttare upp med Krystian som den lysande stjärnan och förhandsfavoriten efter att nästan slagit självaste Strasser under fjolårets TCR. Han gjorde heller ingen besviken och krossade banrekordet.
+
+Hade bestämt mig för en längre femtimmars nattvila 45 mil innan mål och därtill första hotellfrukosten för att klara natten med ett 45-minuterspass i en busskur. Allt flöt enligt plan, men med blott elva mil kvar var jag så utmattad att hela två halvtimmarstupplurar krävdes för att komma i mål och den där kampen om sista topp tio-platsen kom av sig.
+
+Kände mig dock som en vinnare när delar av RAP-teamet kom ut och mötte mig med både flagga och fotograf med stora leenden för att inte tala om hur mycket jag kände mig som en segrare när jag skådar min helt fantastiska bättre hälft Malin vid målgång. En solid sub11 på ~260 timmar varav ~160 trampades (och tampades…) blev det till slut.
+
+![](../bilder/race-around-poland-2023/rap23-finish-bridge.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-finish-medal-bike.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-finish-portrait.jpg)
 
 Strava, annars har det inte hänt! 😉
 
 [Strava 🔗](https://www.strava.com/activities/9549150940)
+
+![](../bilder/race-around-poland-2023/rap23-strava-map.jpg)
 
 ## Epilog
 
 En förvånad Anna var undrande över hur jag orkar semestra efter långa lopp med tillhörande svår utmattning och sömnbrist. I fallet med Ale Wino och Woda Ognista samma kväll som målgångsdagen handlade det om två timmar i sängen innan vi hoppade in i en Uber. Har aldrig tänkt på det förr, men det blir ett slags lopp i sig själv. Det var först när vi kom hem till Sverige, lite bestyr i Bunkeflostrand och sedan lugnet på Öland som jag började ta igen sömnen. I skrivande stund har jag sovit mer än nio timmar fyra dagar i rad… Cyklade heller inte på en vecka som jag lovade mig själv under loppet, men gårdagens hyggetur med hustruns kusin var precis hur härlig som helst 😃
 
 Till sist, ett stort tack till er som peppar under resan med extra stort 🙏🏻 till Per som körde en lopptråd på min Facebook-sida med dagliga uppdateringar. Passar också på att be om förståelse för att vissa meddelanden kanske bommas och att det sällan finns tid/ork/möjlighet att svara. Men låt peppet strömma in även nästa gång! ❤
+
+## Fler bilder
+
+![](../bilder/race-around-poland-2023/rap23-day1-selfie.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-day2-wheat-selfie.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-church.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-day5-selfie.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-dawn-hills.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-wheat-field-sky.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-rolling-hills.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-sign-10pct.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-forest-valley.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-red-bike-sculpture.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-rain-jacket-selfie.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-schnitzel-pasta.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-shoe-gravel.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-foxill-gel.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-pink-jersey-selfie.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-pickle-sandwich.jpg)
+
+![](../bilder/race-around-poland-2023/rap23-ts-night-two-riders.jpg)

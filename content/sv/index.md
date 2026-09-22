@@ -1,5 +1,5 @@
 ---
-title: Svenska
+title: 🇸🇪 Svenska
 description: Rejsrapporter från ultracykling på svenska.
 ---
 

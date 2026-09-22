@@ -4,7 +4,7 @@ aliases: [en]
 description: Ultracycling race reports by Martin Rosén-Lidholm, in English and Swedish.
 ---
 
-Race reports from unsupported ultracycling events. English by default; svenska under [Svenska](sv/).
+Race reports from unsupported ultracycling events. English by default; svenska under [🇸🇪 Svenska](sv/).
 
 ## Reports
 

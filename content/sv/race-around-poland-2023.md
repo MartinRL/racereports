@@ -16,8 +16,10 @@ tags: [cykel, ultracykling, race-report]
 | **Format** | Unsupported |
 | **Cykel** | OPEN U.P. |
 | **Resultat** | 11 av 23 (26 % DNF) |
-| **Total tid** | 259:45 (rulltid ~160 h, 62 %) |
-| **Snitt** | 13,9 km/h inklusive stopp |
+| **Total tid** | 259:45 (rulltid ~159 h) |
+| **Totalsnitt** | 13,9 km/h |
+| **Rullsnitt** | 22,7 km/h |
+| **Vilo-%** | 39 % |
 
 ![](../bilder/race-around-poland-2023/rap23-aero-official.jpg)
 

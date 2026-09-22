@@ -17,8 +17,10 @@ tags: [cykel, ultracykling, race-report]
 | **Format** | Unsupported |
 | **Bike** | OPEN U.P. |
 | **Result** | 11 of 23 (26 % DNF) |
-| **Total time** | 259:45 (moving ~160 h, 62 %) |
-| **Avg** | 13.9 km/h including stops |
+| **Total time** | 259:45 (moving ~159 h) |
+| **Overall avg** | 13.9 km/h |
+| **Moving avg** | 22.7 km/h |
+| **Rest %** | 39 % |
 
 ![](bilder/race-around-poland-2023/rap23-aero-official.jpg)
 

@@ -1,5 +1,6 @@
 ---
 title: Race Reports
+aliases: [en]
 description: Ultracycling race reports by Martin Rosén-Lidholm, in English and Swedish.
 ---
 

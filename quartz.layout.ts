@@ -11,11 +11,12 @@ const explorerSortFn = (
   // Folders (language sections) before files
   if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
 
-  // Race reports are slugged <event>-<year>: newest year first
-  const yearOf = (s: string) => Number(/-(\d{4})$/.exec(s)?.[1] ?? 0)
-  if (yearOf(a.slugSegment) !== yearOf(b.slugSegment)) {
-    return yearOf(b.slugSegment) - yearOf(a.slugSegment)
-  }
+  // Race reports are slugged <event>-<year>: newest year first.
+  // No nested helper function here: esbuild would wrap it in __name(),
+  // which is undefined once Quartz rebuilds this function in the browser.
+  const ay = Number(/-(\d{4})$/.exec(a.slugSegment)?.[1] ?? 0)
+  const by = Number(/-(\d{4})$/.exec(b.slugSegment)?.[1] ?? 0)
+  if (ay !== by) return by - ay
 
   // Date-named entries (YYYY-MM-DD files, YYYY-MM month folders) sort in
   // reverse chronological order. Match against slugSegment (the filename)

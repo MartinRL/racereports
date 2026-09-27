@@ -8,6 +8,7 @@ Race reports from unsupported ultracycling events. English by default; svenska u
 
 ## Reports
 
+- [Vätternrundan 2019](vatternrundan-2019): 297 km around lake Vättern, sub 7 h with Team Øresund
 - [Race Around Denmark 2020](race-around-denmark-2020): 1 567 km / 9 616 m around Denmark, 3rd of 18
 - [BRM 1200 Stockholm 2020](brm-1200-2020): 1 210 km / 9 342 m brevet with Randonneur Stockholm
 - [Race Around Denmark 2021](race-around-denmark-2021): 1 610 km / 10 312 m around Denmark, 4th

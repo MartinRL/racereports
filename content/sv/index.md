@@ -7,6 +7,7 @@ Rejsrapporter från unsupported ultracykellopp. English version at [Race Reports
 
 ## Rapporter
 
+- [Race Around Denmark 2019](race-around-denmark-2019): 1 584 km / 7 506 hm runt Danmark, 2:a
 - [Vätternrundan 2019](vatternrundan-2019): 297 km runt Vättern, sub 7 h med Team Øresund
 - [Race Around Denmark 2020](race-around-denmark-2020): 1 567 km / 9 616 hm runt Danmark, 3:a av 18
 - [BRM 1200 Stockholm 2020](brm-1200-2020): 1 210 km / 9 342 hm brevet med Randonneur Stockholm

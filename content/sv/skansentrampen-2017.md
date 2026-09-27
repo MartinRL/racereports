@@ -14,6 +14,7 @@ tags: [cykel, race-report]
 | **Datum** | 29 juli 2017 |
 | **Distans** | 208 km / 367 hm |
 | **Format** | Motionslopp |
+| **Cykel** | Rose X-Lite CWX |
 | **Resultat** | 5:12, i gruppen som slog det gamla banrekordet |
 | **Total tid** | 5:12 |
 | **Totalsnitt** | 40,1 km/h |

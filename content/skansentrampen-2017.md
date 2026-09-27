@@ -15,6 +15,7 @@ tags: [cykel, race-report]
 | **Date** | 29 July 2017 |
 | **Distance** | 208 km / 367 m |
 | **Format** | Sportive |
+| **Bike** | Rose X-Lite CWX |
 | **Result** | 5:12, in the group that beat the old course record |
 | **Total time** | 5:12 |
 | **Overall avg** | 40.1 km/h |

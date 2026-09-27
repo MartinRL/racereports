@@ -15,6 +15,7 @@ tags: [cykel, race-report]
 | **Date** | 15 June 2019 |
 | **Distance** | 297 km / 1,689 m |
 | **Format** | Sportive, Team Øresund |
+| **Bike** | Rose X-Lite CWX |
 | **Result** | Official time 6:58 |
 | **Total time** | 6:59 (moving 6:56) |
 | **Overall avg** | 42.5 km/h |

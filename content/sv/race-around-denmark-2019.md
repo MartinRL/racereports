@@ -14,6 +14,7 @@ tags: [cykel, ultracykling, race-report]
 | **Datum** | 28 maj–1 juni 2019 |
 | **Distans** | 1 584 km / 7 506 hm |
 | **Format** | Unsupported |
+| **Cykel** | Rose X-Lite CWX |
 | **Resultat** | 2:a |
 | **Total tid** | 95:00 (officiell tid 95:00:19) |
 | **Totalsnitt** | 16,7 km/h |

@@ -14,6 +14,7 @@ tags: [cykel, race-report]
 | **Datum** | 15 juni 2019 |
 | **Distans** | 297 km / 1 689 hm |
 | **Format** | Motionslopp, Team Øresund |
+| **Cykel** | Rose X-Lite CWX |
 | **Resultat** | Officiell tid 6:58 |
 | **Total tid** | 6:59 (rulltid 6:56) |
 | **Totalsnitt** | 42,5 km/h |

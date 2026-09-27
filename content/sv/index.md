@@ -7,6 +7,7 @@ Rejsrapporter från unsupported ultracykellopp. English version at [Race Reports
 
 ## Rapporter
 
+- [Skansentrampen 2017](skansentrampen-2017): 208 km motionslopp på 5:12, 25-årsjubileum
 - [BRM 600 Malmö 2018](brevet-600-2018): 603 km brevet på 19:42, svenskt randorekord på 60 mil
 - [Alpi 4000 2018](alpi4000-2018): 1 519 km / 17 822 hm randonnée i Alperna, 16:e av 400
 - [Race Around Denmark 2019](race-around-denmark-2019): 1 584 km / 7 506 hm runt Danmark, 2:a

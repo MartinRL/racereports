@@ -8,6 +8,7 @@ Race reports from unsupported ultracycling events. English by default; svenska u
 
 ## Reports
 
+- [BRM 600 Malmö 2018](brevet-600-2018): 603 km brevet in 19:42, Swedish 600 km rando record
 - [Alpi 4000 2018](alpi4000-2018): 1 519 km / 17 822 m randonnée in the Alps, 16th of 400
 - [Race Around Denmark 2019](race-around-denmark-2019): 1 584 km / 7 506 m around Denmark, 2nd
 - [Vätternrundan 2019](vatternrundan-2019): 297 km around lake Vättern, sub 7 h with Team Øresund

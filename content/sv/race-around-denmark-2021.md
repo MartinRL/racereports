@@ -14,6 +14,7 @@ tags: [cykel, ultracykling, race-report]
 | **Datum** | 11–15 maj 2021 |
 | **Distans** | 1 610 km / 10 312 hm |
 | **Format** | Unsupported |
+| **Cykel** | Cervélo S3 |
 | **Resultat** | [4:a](https://racearounddenmark.org/resultater) |
 | **Total tid** | 89:47 (rulltid 65:54) |
 | **Totalsnitt** | 17,9 km/h |

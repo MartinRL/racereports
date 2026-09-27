@@ -7,6 +7,7 @@ Rejsrapporter från unsupported ultracykellopp. English version at [Race Reports
 
 ## Rapporter
 
+- [Alpi 4000 2018](alpi4000-2018): 1 519 km / 17 822 hm randonnée i Alperna, 16:e av 400
 - [Race Around Denmark 2019](race-around-denmark-2019): 1 584 km / 7 506 hm runt Danmark, 2:a
 - [Vätternrundan 2019](vatternrundan-2019): 297 km runt Vättern, sub 7 h med Team Øresund
 - [Paris–Brest–Paris 2019](pbp-2019): 1 220 km / 13 206 hm brevet, 59:34

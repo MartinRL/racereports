@@ -9,6 +9,7 @@ Rejsrapporter från unsupported ultracykellopp. English version at [Race Reports
 
 - [Race Around Denmark 2021](race-around-denmark-2021): 1 610 km / 10 312 hm runt Danmark, 4:a
 - [Sverigetempot 2021](sverigetempot-2021): Sveriges längd, 2 123 km / 15 870 hm, delad 2:a av ~120
+- [1001 Miglia 2021](1001-miglia-2021): 1 610 km / 15 500 hm genom Italien, 20:e av 305
 - [Race Around Denmark 2022](race-around-denmark-2022): 1 609 km / 11 530 hm runt Danmark, 2:a
 - [Race Around Poland 2022](race-around-poland-2022): DNF efter 315 km, bakväxelhaveri
 - [Race Around Denmark 2023](race-around-denmark-2023): 1 607 km / 10 192 hm runt Danmark, 4:e av 19

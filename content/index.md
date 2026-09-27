@@ -8,6 +8,7 @@ Race reports from unsupported ultracycling events. English by default; svenska u
 
 ## Reports
 
+- [Race Around Denmark 2020](race-around-denmark-2020): 1 567 km / 9 616 m around Denmark, 3rd of 18
 - [Race Around Denmark 2021](race-around-denmark-2021): 1 610 km / 10 312 m around Denmark, 4th
 - [Sverigetempot 2021](sverigetempot-2021): Length of Sweden, 2 123 km / 15 870 m, joint 2nd of ~120
 - [1001 Miglia 2021](1001-miglia-2021): 1 610 km / 15 500 m through Italy, 20th of 305

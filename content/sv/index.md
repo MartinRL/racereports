@@ -7,6 +7,7 @@ Rejsrapporter från unsupported ultracykellopp. English version at [Race Reports
 
 ## Rapporter
 
+- [Race Around Denmark 2020](race-around-denmark-2020): 1 567 km / 9 616 hm runt Danmark, 3:a av 18
 - [Race Around Denmark 2021](race-around-denmark-2021): 1 610 km / 10 312 hm runt Danmark, 4:a
 - [Sverigetempot 2021](sverigetempot-2021): Sveriges längd, 2 123 km / 15 870 hm, delad 2:a av ~120
 - [1001 Miglia 2021](1001-miglia-2021): 1 610 km / 15 500 hm genom Italien, 20:e av 305

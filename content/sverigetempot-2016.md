@@ -13,7 +13,7 @@ tags: [cykel, ultracykling, race-report]
 |---|---|
 | **Race** | Sverigetempot (Length of Sweden) 2016, Katterjokk–Smygehuk |
 | **Date** | 16–22 July 2016 |
-| **Distance** | 2,135 km |
+| **Distance** | 2,135 km / 15,870 m |
 | **Format** | Unsupported |
 | **Bike** | Rose X-Lite CWX |
 | **Result** | 10th |

@@ -7,7 +7,7 @@ Rejsrapporter från unsupported ultracykellopp. English version at [Race Reports
 
 ## Rapporter
 
-- [Sverigetempot 2016](sverigetempot-2016): Sveriges längd, 2 135 km, 10:e
+- [Sverigetempot 2016](sverigetempot-2016): Sveriges längd, 2 135 km / 15 870 hm, 10:e
 - [999 Miglia 2017](999-miglia-2017): 1 554 km / 21 588 hm randonnée Rom–Matera–Rom, 17:e av 271
 - [Skansentrampen 2017](skansentrampen-2017): 208 km motionslopp på 5:12, 25-årsjubileum
 - [BRM 600 Malmö 2018](brevet-600-2018): 603 km brevet på 19:42, svenskt randorekord på 60 mil

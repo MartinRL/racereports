@@ -8,7 +8,7 @@ Race reports from unsupported ultracycling events. English by default; svenska u
 
 ## Reports
 
-- [Sverigetempot 2016](sverigetempot-2016): Length of Sweden, 2 135 km, 10th
+- [Sverigetempot 2016](sverigetempot-2016): Length of Sweden, 2 135 km / 15 870 m, 10th
 - [999 Miglia 2017](999-miglia-2017): 1 554 km / 21 588 m randonnée Rome–Matera–Rome, 17th of 271
 - [Skansentrampen 2017](skansentrampen-2017): 208 km sportive in 5:12, 25th anniversary edition
 - [BRM 600 Malmö 2018](brevet-600-2018): 603 km brevet in 19:42, Swedish 600 km rando record

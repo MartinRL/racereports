@@ -11,7 +11,7 @@ tags: [cykel, race-report]
 
 | | |
 |---|---|
-| **Race** | Skansentrampen 2017, Sweden |
+| **Race** | Skansentrampen 2017, Färjestaden, Sweden |
 | **Date** | 29 July 2017 |
 | **Distance** | 208 km / 367 m |
 | **Format** | Sportive |

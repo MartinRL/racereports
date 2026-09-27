@@ -10,7 +10,7 @@ tags: [cykel, race-report]
 
 | | |
 |---|---|
-| **Lopp** | Skansentrampen 2017 |
+| **Lopp** | Skansentrampen 2017, Färjestaden |
 | **Datum** | 29 juli 2017 |
 | **Distans** | 208 km / 367 hm |
 | **Format** | Motionslopp |
